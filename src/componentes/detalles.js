@@ -3,7 +3,7 @@ import { connect } from "redux-zero/react";
 import { Row, Grid, Form, FormGroup, Col, ControlLabel, FormControl, Checkbox, Button } from 'react-bootstrap';
 import { HashRouter, Switch, Route, NavLink } from 'react-router-dom';
 import ReactDOM from 'react-dom';
-import registerServiceWorker from './registerServiceWorker';
+import registerServiceWorker from '../registerServiceWorker';
 
 //Componete para la vista de detalles de clinica//
 const Detalles = () => {
