@@ -9,6 +9,7 @@ import registerServiceWorker from '../registerServiceWorker';
 const Detalles = () => {
     return (
         <div>
+            
             <Row>
                 <Col md={12}>
                     <h1 className="g-titulo">Detalles de Clínica</h1>
